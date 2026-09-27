@@ -1,1 +1,20 @@
-{"name":"Personal Growth — Zaky","short_name":"Growth Zaky","start_url":"./","scope":"./","display":"standalone","background_color":"#080d1b","theme_color":"#0b1020","description":"Personal Growth System untuk membangun pertumbuhan diri","icons":[{"src":"assets/icon.webp","sizes":"192x192","type":"image/webp","purpose":"any maskable"},{"src":"assets/icon.webp","sizes":"512x512","type":"image/webp","purpose":"any maskable"}]}
+{
+  "name": "Personal Growth — Zaky",
+  "short_name": "Growth Zaky",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080d1b",
+  "theme_color": "#0b1020",
+  "description": "Personal Growth System untuk membangun pertumbuhan diri",
+  "icons": [
+    {
+      "src": "assets/icon.webp",
+      "sizes": "1536x1536",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
