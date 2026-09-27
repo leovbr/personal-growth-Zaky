@@ -12,14 +12,8 @@
   "icons": [
     {
       "src": "assets/icon.webp",
-      "sizes": "1536x1536",
+      "sizes": "192x192 512x512 1536x1536",
       "type": "image/webp",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon.svg",
-      "sizes": "512x512",
-      "type": "image/svg+xml",
       "purpose": "any maskable"
     }
   ]
